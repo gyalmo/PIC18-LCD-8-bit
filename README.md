@@ -13,8 +13,14 @@ Here are some objectives about embedded C programming :
 
 The embedded C program has a structure similar to C programming.The five layers are:
 - Comments
+
+Comments written in code to make it more understandable to the reader. Usually comments are written in // or /* */.
+
 - Pre-processor directives
+
 - Global declaration
+
 - Local declaration
+
 - Main function()
 
