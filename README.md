@@ -26,5 +26,9 @@ Global declaration part of the code is the part where the global variables are d
 
 - Local declaration
 
+These variables are declared in the respective functions and cannot be used outside the main function.
+
 - Main function()
+
+As every C programs need to have the main function. So does an embedded C program has .Each main function contains 2 parts i.e. a declaration part and an execution part. The declaration part is the part where we declare all the variables and the execution part begins with the curly brackets and ends with the curly close bracket. Both the declaration and execution part are inside the curly braces.
 
