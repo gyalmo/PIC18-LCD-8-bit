@@ -18,7 +18,11 @@ Comments written in code to make it more understandable to the reader. Usually c
 
 - Pre-processor directives
 
+This tells the compiler which files to look in to find the symbols that are not present in the program.
+
 - Global declaration
+
+Global declaration part of the code is the part where the global variables are declared and the user-defined functions are declared in this part of the code also, they can be accessed from anywhere.
 
 - Local declaration
 
